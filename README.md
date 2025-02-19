@@ -1,6 +1,6 @@
 Overview
 
-This project implements a 2D tank battle game using OpenGL and the graphics library provided in the Lab framework. The game features two tanks on a destructible terrain, with the ability to aim and fire projectiles at each other.
+This project implements a 2D tank battle game using OpenGL. The game features two tanks on a destructible terrain, with the ability to aim and fire projectiles at each other.
 
 Features
 
